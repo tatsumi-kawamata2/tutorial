@@ -1,3 +1,3 @@
 # Ruby on Rails で開発してみよう
 
-## このチュートリアルではRuby on Railsを実践的に学習します。
+## このチュートリアルではRuby on Railsを実践的に学習します。git
